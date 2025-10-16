@@ -18,10 +18,8 @@ The finished project received an Accessibility User Score (AUS) of **100/100** a
 ## Demo
 
 <video src="assets/demo.mp4" controls width="600">
-  Sorry, your browser doesn't support embedded videos.  
-  [Download the demo video](assets/demo.mp4)
 </video>
-> *Click the image above to watch a video demo of the game.*
+> *Click the image above to watch a video demo of the game. If no video is show, your browser may not support embedded videos. You may download the file at (assets/demo.mp4)*
 
 ## Technologies & Skills
 
