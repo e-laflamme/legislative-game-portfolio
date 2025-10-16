@@ -17,7 +17,7 @@ The finished project received an Accessibility User Score (AUS) of **100/100** a
 
 ## Demo
 
-[Watch the demo](assets/demo.mp4)
+[Watch the demo](https://youtu.be/uX_NB_F7ZUc)
 
 ## Technologies & Skills
 
