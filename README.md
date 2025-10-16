@@ -1,6 +1,6 @@
 # Legislative Assembly of Ontario: Game Portfolio
 
-> *Note: Source code is not available due to confidentiality, but this repo documents my contributions through design notes, screenshots, and implementation details.*
+> *Note: Source code is not currently available. This repo documents my contributions and includes a youtube demo of the product*
 
 ## Overview
 
